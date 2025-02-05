@@ -1,0 +1,21 @@
+{
+  "name": "CarbonTheme",
+  "displayName": "Carbon Theme",
+  "description": "Um tema minimalista",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbon Theme-color-theme.json"
+      }
+    ]
+  }
+}
